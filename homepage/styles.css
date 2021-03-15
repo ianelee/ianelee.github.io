@@ -1,0 +1,54 @@
+h1{
+    font-family: Helvetica;
+    background-color: lightblue;
+    padding: 20px;
+}
+body{
+    background-color: gray;
+}
+.ella{
+    font-family: Helvetica;
+}
+#Ella{
+    width: 200px;
+}
+h2{
+    font-family: Helvetica;
+    font-size: 30px;
+    color: white;
+}
+#mountain{
+    background-image: url(mountain.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+#intro{
+    text-align: center;
+    color: white;
+}
+#dropdown{
+    text-align: center;
+}
+#abouthead{
+    background-color: lightblue;
+    text-align: center;
+    color: white;
+}
+#mountaintext{
+    color: white;
+    font-size: 18px;
+    margin-left: 100px;
+    margin-right:1000px;
+}
+#card{
+    text-align: center;
+}
+#snowtrees{
+    margin-right: 100px;
+    width: 850px;
+    height: 100vh;
+}
+#imggal{
+    width: 595px;
+    padding: 5px;
+}
